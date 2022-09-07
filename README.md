@@ -52,5 +52,4 @@ Tasks
 
 Developers:
 
-Irene Busah
-Topister Onyango
+Khaled Yassin
